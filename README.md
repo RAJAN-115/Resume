@@ -1,125 +1,201 @@
-# 🌟 Rajan Prajapati's Portfolio
+<h1 align="center">Hi 👋, I'm RAJAN PRAJAPATI</h1>
+<h3 align="center">A Passionate <strong>MERN Stack Developer</strong>, <strong>AI Enthusiast</strong>, & <strong>C++ Problem Solver</strong> from India</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajan-115&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Followers-60-blue?style=social" alt="Followers"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajan-115/rajan-115/main/coding.gif" alt="coding" width="400"/>
+</p>
 
 ---
 
-## 📞 **Contact Information**  
-- 📱 **Phone:** [+91-9545993850](tel:+919545993850)  
-- ✉️ **Email:** [![Email](https://img.shields.io/badge/-rajanrp115@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajanrp115@gmail.com)  
-- 🌐 **Portfolio:** [![Portfolio](https://img.shields.io/badge/-View%20My%20Work-FF5733?style=flat-square&logo=google-chrome&logoColor=white)](https://rajan-115.github.io/Portfolio/)  
-- 👔 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajanrp115/)  
-- 🖥️ **GitHub:** [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RAJAN-115)
+### 🌟 About Me
+I am a **MERN Stack Developer** specializing in building dynamic, scalable web applications using **MongoDB**, **Express.js**, **React.js**, and **Node.js**. I also have a strong interest in **Artificial Intelligence (AI)**, leveraging tools like **Google AI Studio**, **Deepseek**, **Claude AI**, **Tabnine**, **GitHub Copilot**, and **TensorFlow** to enhance my development workflow. Additionally, I love solving complex algorithmic problems in **C++**, participating in competitive programming platforms like **Codeforces**, **LeetCode**, and **HackerRank**.
 
 ---
 
-## 🎓 **Education**
-
-- 🎓 **Bachelor of Engineering in Computer Engineering**  
-  ![College](https://img.shields.io/badge/-Parvatibai%20Genba%20Moze%20College%20of%20Engineering-blue?style=flat-square)  
-  **2020 - 2024** | **CGPA:** ![7.8/10.0](https://img.shields.io/badge/CGPA-7.8/10.0-1E90FF?style=flat-square)  
-
-- 🏫 **HSC**  
-  ![School](https://img.shields.io/badge/-Utkarsha%20Madhyamik%20Vidyalaya%20And%20Junior%20College-yellow?style=flat-square)  
-  **2019 - 2020** | **Percentage:** ![73.2%](https://img.shields.io/badge/Percentage-73.2%25-1E90FF?style=flat-square)  
-
-- 📘 **SSC**  
-  ![School](https://img.shields.io/badge/-Annasaheb%20Vartak%20Smarak%20Vidyamandir%20School-blue?style=flat-square)  
-  **2017 - 2018** | **Percentage:** ![85.4%](https://img.shields.io/badge/Percentage-85.4%25-1E90FF?style=flat-square)
-
----
-
-## 💻 **Skills**
-
-- **Programming Languages:**  
-  ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c)  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-
-- **Web Technologies:**  
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)  
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)  
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-
-- **Tools:**  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
-  ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex)  
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-
-- **Database:**  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-
-- **Soft Skills:**  
-  ![Productivity](https://img.shields.io/badge/-Productivity-00C853?style=flat-square&logo=productive)  
-  ![Logical Reasoning](https://img.shields.io/badge/-Logical%20Reasoning-8E24AA?style=flat-square&logo=brain)  
-  ![Teamwork](https://img.shields.io/badge/-Teamwork-FFD700?style=flat-square&logo=team)
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://wa.me/9545993850" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp.png" alt="WhatsApp" style="border-radius: 50%; width: 50px; height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="mailto:rajanrp115@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" alt="Email" style="border-radius: 50%; width: 50px; height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://rajan-115.github.io/Portfolio/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" alt="Portfolio" style="border-radius: 50%; width: 50px; height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://github.com/rajan-115" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" style="border-radius: 50%; width: 50px; height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rajanrp115/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn" style="border-radius: 50%; width: 50px; height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ **Projects**
-
-### 1. 🏧 **ATM System**  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RAJAN-115/MiniAtmSystem)  
-- **Tech Stack:** ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) ![OOP](https://img.shields.io/badge/-OOP-1E90FF?style=flat-square)
-- 🔒 Constructed a C++ ATM app for 1,000+ users, enhancing banking efficiency with balance check, cash withdrawal, user details, and mobile updates.
-- 🛡️ Implemented secure user authentication, ensuring the safety of features for 1,000+ users.
-- 🧩 Employed object-oriented programming to create a robust ATM system, reducing system errors by 50%.
-- 🕹️ Crafted a user-friendly menu interface, decreasing transaction time by 60%.
-
-### 2. 🎨 **Color Picker Extension**  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RAJAN-115/Color-Picker-Chrome_Extension)  
-- **Tech Stack:** ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-- 🎯 Built a Chrome extension, enhancing color selection efficiency for over 1,000+ users.
-- 🖌️ Designed the user interface, leading to a 95% enhancement in user experience and precision in color selection.
-- 📋 Added functionality for color history with actions such as copying or clearing them with a single click.
-- 🌐 Published the extension to the Chrome Web Store, utilized by 5-6 friend groups.
-
-### 3. 🧠 **AI Assistant (ASTRA)**  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RAJAN-115/AI-Assistant-ASTRA-.git)  
-- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-- 🎙️ Enhanced user engagement with text-to-speech and voice recognition, improving accuracy by 85%.
-- 📧 Automated email sending, increasing communication efficiency by 75%.
-- 🎵 Integrated multimedia controls like song playback and screenshot capturing, streamlining tasks by 80%.
-- 💻 Incorporated system utilities like CPU and battery status updates, enhancing system monitoring by 70%.
-
----
-
-## 📜 **Certifications**
-
-- 🏅 [![C++](https://img.shields.io/badge/-Advanced%20C++-00599C?style=flat-square&logo=c)](https://drive.google.com/file/d/1J2_WzpOF4CMARrohTtE9hLQ-pRwAznri/view) **- SimpliLearn | SkillUp Certificate**
-- 🏅 [![Data Structures](https://img.shields.io/badge/-DSA-1E90FF?style=flat-square&logo=code)](https://drive.google.com/file/d/1rq9hOJPU60aPWt8Le3SYflnNwwWdnYam/view) **- YHills Certificate**
-- 🏅 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)](https://drive.google.com/file/d/1ITpExcMMgLruH7xdpfulNJ81SnHQuLe2/view) **- Yonity Certificate**
-- 🏅 [![HTML/CSS](https://img.shields.io/badge/-HTML%2C%20CSS%2C%20Bootstrap-E34F26?style=flat-square&logo=html5)](https://drive.google.com/file/d/1qyfD8FkjuG5Nr-wsrqIqTWuHSsUB79fu/view) **- Udemy Certificate**
+<h3 align="center">AI Tools I Use:</h3>
+<p align="center">
+  <a href="https://ai.google.dev/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Google AI Studio"/>
+  </a>
+  <a href="https://deepseek.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/deepseek.png" alt="Deepseek"/>
+  </a>
+  <a href="https://www.anthropic.com/product" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/claude-ai.png" alt="Claude AI"/>
+  </a>
+  <a href="https://www.tabnine.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/tabnine.png" alt="Tabnine"/>
+  </a>
+  <a href="https://copilot.github.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/github-copilot.png" alt="GitHub Copilot"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
+  </a>
+  <a href="https://openai.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/openai.png" alt="OpenAI"/>
+  </a>
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva"/>
+  </a>
+</p>
 
 ---
 
-## 🏆 **Achievements**
-
-- 🥇 ![CGPA](https://img.shields.io/badge/-7.6%2B%20CGPA-FFD700?style=flat-square) Consistently achieved more than 7.6+ CGPA every year in engineering.
-- 🧩 ![Problem Solving](https://img.shields.io/badge/-Solved%20100%2B%20problems-1E90FF?style=flat-square&logo=geeksforgeeks) on GeeksforGeeks and LeetCode.
-- 🚀 ![SoloLearn](https://img.shields.io/badge/-Completed%20all%20SoloLearn%20tutorials-32CD32?style=flat-square&logo=sololearn) and ranked in Jupiter League leaderboard.
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://developer.android.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="android"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/django.png" alt="django"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/flask.png" alt="flask"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="postgresql"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes"/>
+  </a>
+</p>
 
 ---
 
-## 📚 **Relevant Coursework**
-
-- **Computer Science:**  
-  ![Data Structures](https://img.shields.io/badge/-Data%20Structures-1E90FF?style=flat-square)  
-  ![Algorithms](https://img.shields.io/badge/-Algorithms-1E90FF?style=flat-square)  
-  ![DBMS](https://img.shields.io/badge/-DBMS-1E90FF?style=flat-square)  
-  ![OOP](https://img.shields.io/badge/-OOP-1E90FF?style=flat-square)  
-  ![Blockchain](https://img.shields.io/badge/-Blockchain-1E90FF?style=flat-square)  
-  ![AI](https://img.shields.io/badge/-AI-1E90FF?style=flat-square)  
-  ![OS](https://img.shields.io/badge/-OS-1E90FF?style=flat-square)  
-  ![Networking](https://img.shields.io/badge/-Networking-1E90FF?style=flat-square)
+<h3 align="center">Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajan-115&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajan-115&theme=radical" alt="GitHub Streak"/>
+</p>
 
 ---
 
-## 🌟 **Extracurricular Activities**
-
-- 📱 ![Custom ROMs](https://img.shields.io/badge/-Custom%20ROMs%2C%20Rooting%2C%20Modules-8A2BE2?style=flat-square&logo=android) Proficient in installing custom ROMs, rooting, and modules on mobile devices.
-- 🎮 ![BGMI](https://img.shields.io/badge/-BGMI%20Team%20Leader-FF4500?style=flat-square&logo=game-controller) Led BGMI gaming competition as Team Leader, showcasing strategic planning, leadership, and effective listening.
+<h3 align="center">Support:</h3>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/rajanrp115" target="_blank">
+    <img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-%23FF69B4?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"/>
+  </a>
+  <a href="https://www.patreon.com/rajanrp115" target="_blank">
+    <img src="https://img.shields.io/badge/-Patreon-%23F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
+  </a>
+</p>
 
 ---
 
-![Thanks for visiting](https://img.shields.io/badge/-Thanks%20for%20visiting!-008080?style=for-the-badge)
+<h3 align="center">Custom VS Code Settings:</h3>
+<details>
+<summary><strong>Click to View My VS Code Settings</strong></summary>
+json
+{
+    // 🚀 GENERAL SETTINGS 🚀
+    "explorer.confirmDelete": false,
+    "git.confirmSync": false,
+    "code-runner.runInTerminal": true,
+    "livePreview.customExternalBrowser": "Chrome",
+    "[html]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+    "git.enableSmartCommit": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "codesnap.target": "window",
+    "[javascript]": { "editor.defaultFormatter": "vscode.typescript-language-features" },
+    "liveServer.settings.port": 5501,
+    "files.autoSave": "afterDelay",
+    "[javascriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "tabnine.experimentalAutoImports": true,
+    "[json]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.exe": "default"
+    },
+    "editor.fontFamily": "Consolas",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 24,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorStyle": "line",
+    "workbench.colorTheme": "Sapphire",
+    "editor.fontLigatures": true,
+    "workbench.statusBar.visible": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.renderWhitespace": "none",
+    "editor.smoothScrolling": true,
+    "editor.wordWrap": "on",
+    "explorer.compactFolders": false,
+    "breadcrumbs.enabled": false
+}
+----
+</details>
+
+
+<h3 align="center">Stay Updated:</h3>
+<p align="center">
+<a href="https://twitter.com/rajanrp115" target="_blank">
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://dev.to/rajanrp115" target="_blank">
+<img src="https://img.shields.io/badge/-Dev.to-%230A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+</a>
+</p>
+
+
+<h3 align="center">Productivity Enhancements:</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/rajan-115/rajan-115/main/productivity.gif" alt="productivity" width="400"/>
+</p>
+
+
+
+<h3 align="center">Smooth Animations and Visual Enhancements:</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/rajan-115/rajan-115/main/animations.gif" alt="animations" width="400"/>
+</p>
